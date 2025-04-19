@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About codingal</title>
+</head>
+<body>
+<h1>Codingal is an online learning platform that teaches coding to school students.</h1><br>
+<h2>Codingal is an online learning platform that teaches coding to school students.</h2><br>
+<h3>Codingal is an online learning platform that teaches coding to school students.</h3><br>
+<h4>Codingal is an online learning platform that teaches coding to school students.</h4><br>
+<h5>Codingal is an online learning platform that teaches coding to school students.</h5><br>
+<h6>Codingal is an online learning platform that teaches coding to school students.</h6><br>
+<p>Codingal is an online education platform dedicated to teaching coding to school students in a fun and interactive way. It offers a wide range of courses in programming languages like Scratch, Python, JavaScript, and HTML, designed to suit different age groups and skill levels. The platform follows a curriculum aligned with school standards and global computer science guidelines, helping students build real-world projects such as games, apps, and websites. With expert teachers, live classes, and exciting coding competitions, Codingal not only strengthens students’ programming skills but also enhances their creativity, problem-solving abilities, and confidence. It aims</p><br>
+<strong>It aims to make programming fun and accessible through interactive lessons and real-world projects.</strong><br>
+<i>It aims to make programming fun and accessible through interactive lessons and real-world projects.</i><br>
+<em>It aims to make programming fun and accessible through interactive lessons and real-world projects.</em><br>
+<mark>It aims to make programming fun and accessible through interactive lessons and real-world projects.</mark><br>
+<small>It aims to make programming fun and accessible through interactive lessons and real-world projects.</small><br>
+<del>It aims to make programming fun and accessible through interactive lessons and real-world projects.</del><br>
+It is aims to<sub>make</sub>programming fun and <sup>accessible</sup>through interactive lessons and real-world projects.<br>
+<q>through interactive lessons and real-world projects</q>
+</body>
+
+</html>
